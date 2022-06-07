@@ -23,7 +23,7 @@ Ou copiando o link: http://ec2-18-230-176-218.sa-east-1.compute.amazonaws.com/
 1. Clone o repositório
 
 ```sh
-git clone https://github.com/GabrielFelip/calculadora-IMC.git
+git clone https://github.com/GabrielFelip/agenda-de-contatos.git
 ```
 
 2. Inicie o projeto com o comando (serão instaladas todas as dependencias necessárias para rodar o projeto)
