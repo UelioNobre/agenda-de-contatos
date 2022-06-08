@@ -5,8 +5,8 @@ O projeto possui um banco de dados e foi realizado deploy em um servidor.
 
 ## ☕ Acessando a Agenda de Contatos
 
-Você pode ver o projeto em funcionamento clicando <a href="http://ec2-18-230-176-218.sa-east-1.compute.amazonaws.com/" target="_blank">aqui</a>. <br>
-Ou copiando o link: http://ec2-18-230-176-218.sa-east-1.compute.amazonaws.com/
+Você pode ver o projeto em funcionamento clicando <a href="http://ec2-18-228-234-51.sa-east-1.compute.amazonaws.com/" target="_blank">aqui</a>. <br>
+Ou copiando o link: http://ec2-18-228-234-51.sa-east-1.compute.amazonaws.com/
 
 ## 🚀 Instalando a Agenda de Contatos
 
